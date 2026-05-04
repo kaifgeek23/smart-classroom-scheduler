@@ -130,7 +130,7 @@ This system addresses these challenges by generating optimized timetables automa
 ## 👨‍💻 Authors
 
 **Kaif**
-*(Add team members if any)*
+
 
 ---
 
